@@ -1,0 +1,29 @@
+h2.cabecera{
+    background-color: lightgoldenrodyellow;
+    font-weight: bold;
+    text-align: center;
+}
+
+p.subtext{
+    background-color: greenyellow;
+    text-align: center;
+}
+
+pre.subtext2{
+    background-color: orange;
+}
+
+span.quienes{
+    font-weight: bold;
+}
+
+pre.under{
+    text-align: center;
+    background-color: blue;
+    color: purple;
+    text-decoration
+}
+
+span.under2{
+    background-color: yellow;
+}
